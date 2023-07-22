@@ -1,0 +1,11 @@
+{
+    "require": {
+        "lucas/hotel-search": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "hotel-search"
+        }
+    ]
+}
